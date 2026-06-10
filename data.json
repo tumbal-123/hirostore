@@ -1,0 +1,63 @@
+{
+    "admin_num": "6285134374162",
+    "badges": [
+        "Murah dan ramah",
+        "Siap melayani kapanpun",
+        "Pelayanan cepat dan terbaik",
+        "Support setelah pembelian"
+    ],
+    "products": {
+        "diamond_game": [
+            {
+                "name": "Diamond Mobile Legends",
+                "start_from_price": 3000,
+                "duration": "instant",
+                "image": "-"
+            },
+            {
+                "name": "Diamond Free Fire",
+                "start_from_price": 3000,
+                "duration": "instant",
+                "image": "-"
+            },
+            {
+                "name": "Diamond Free Fire",
+                "start_from_price": 3000,
+                "duration": "instant",
+                "image": "-"
+            },
+            {
+                "name": "Diamond Free Fire",
+                "start_from_price": 3000,
+                "duration": "instant",
+                "image": "-"
+            }
+        ],
+        "app_premium": [
+            {
+                "name": "Premium Alight Motion",
+                "start_from_price": 3000,
+                "duration": 30,
+                "image": "-"
+            }
+        ]
+    },
+    "why": [
+        {
+            "title": "Fast Response",
+            "description": "Admin siap membantu selama jam operasional dengan sigap."
+        },
+        {
+            "title": "Terpercaya",
+            "description": "Kami memiliki beberapa testimoni yang membuat kamu semakin percaya."
+        },
+        {
+            "title": "Harga Transparan",
+            "description": "Sesuai dengan apa yang tertera. Tidak ada biaya tambahan tersembunyi."
+        },
+        {
+            "title": "Support Purna Jual",
+            "description": "Kami tetap mendampingi jika terjadi kendala setelah pembelian."
+        }
+    ]
+}
