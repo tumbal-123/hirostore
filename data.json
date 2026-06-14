@@ -13,7 +13,7 @@
                     "Pembelian aman dan terpercaya",
                     "Harga terjangkau"
                 ],
-                "start_from_price": 3000,
+                "start_from_price": 1500,
                 "duration": "instant",
                 "is_popular": true,
                 "image": "-"
@@ -26,46 +26,22 @@
                     "Pembelian aman dan terpercaya",
                     "Harga terjangkau"
                 ],
-                "start_from_price": 3000,
+                "start_from_price": 1000,
                 "duration": "instant",
                 "is_popular": true,
                 "image": "-"
             },
-            {
-                "name": "Diamond Free Fire",
-                "item_info": [
-                    "Diamond Free Fire",
-                    "Langsung masuk ke akun kamu",
-                    "Pembelian aman dan terpercaya",
-                    "Harga terjangkau"
-                ],
-                "start_from_price": 3000,
-                "duration": "instant",
-                "image": "-"
-            },
-            {
-                "name": "Diamond Free Fire",
-                "item_info": [
-                    "Diamond Free Fire",
-                    "Langsung masuk ke akun kamu",
-                    "Pembelian aman dan terpercaya",
-                    "Harga terjangkau"
-                ],
-                "start_from_price": 3000,
-                "duration": "instant",
-                "image": "-"
-            }
         ],
         "app_premium": [
             {
                 "name": "Premium Alight Motion",
                 "item_info": [
                     "Premium Alight Motion",
-                    "Langsung masuk ke akun kamu",
-                    "Pembelian aman dan terpercaya",
-                    "Harga terjangkau"
+                    "Proses instant",
+                    "Cepat, murah, aman, dan terpercaya",
+                    "Banyak testimoni"
                 ],
-                "start_from_price": 3000,
+                "start_from_price": 5000,
                 "duration": 30,
                 "is_popular": true,
                 "image": "-"
