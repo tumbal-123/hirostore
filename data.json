@@ -1,69 +1,69 @@
 {
-    "admin_number": "6285134374162",
-    "group_link": "https://chat.whatsapp.com/Cu8HeozAiY424fEOoTPTQR",
-    "second_group_link": "https://chat.whatsapp.com/LlhtU6R4g6Z1NeS2FpQrE0",
-    "channel_link": "https://whatsapp.com/channel/0029VbCgIDy3LdQS47Lq3u18",
-    "products": {
-        "diamond_game": [
-            {
-                "name": "Diamond Mobile Legends",
-                "item_info": [
-                    "Diamond Mobile Legends",
-                    "Langsung masuk ke akun kamu",
-                    "Pembelian aman dan terpercaya",
-                    "Harga terjangkau"
-                ],
-                "start_from_price": 1500,
-                "duration": "instant",
-                "is_popular": true,
-                "image": "-"
-            },
-            {
-                "name": "Diamond Free Fire",
-                "item_info": [
-                    "Diamond Free Fire",
-                    "Langsung masuk ke akun kamu",
-                    "Pembelian aman dan terpercaya",
-                    "Harga terjangkau"
-                ],
-                "start_from_price": 1000,
-                "duration": "instant",
-                "is_popular": true,
-                "image": "-"
-            }
+  "admin_number": "6285134374162",
+  "group_link": "https://chat.whatsapp.com/Cu8HeozAiY424fEOoTPTQR",
+  "second_group_link": "https://chat.whatsapp.com/LlhtU6R4g6Z1NeS2FpQrE0",
+  "channel_link": "https://whatsapp.com/channel/0029VbCgIDy3LdQS47Lq3u18",
+  "products": {
+    "diamond_game": [
+      {
+        "name": "Diamond Mobile Legends",
+        "item_info": [
+          "Diamond Mobile Legends",
+          "Langsung masuk ke akun kamu",
+          "Pembelian aman dan terpercaya",
+          "Harga terjangkau"
         ],
-        "app_premium": [
-            {
-                "name": "Premium Alight Motion",
-                "item_info": [
-                    "Premium Alight Motion",
-                    "Proses instant",
-                    "Cepat, murah, aman, dan terpercaya",
-                    "Banyak testimoni"
-                ],
-                "start_from_price": 5000,
-                "duration": 30,
-                "is_popular": true,
-                "image": "-"
-            }
-        ]
-    },
-    "why": [
-        {
-            "title": "Fast Response",
-            "description": "Admin siap membantu selama jam operasional dengan sigap."
-        },
-        {
-            "title": "Terpercaya",
-            "description": "Kami memiliki beberapa testimoni yang membuat kamu semakin percaya."
-        },
-        {
-            "title": "Harga Transparan",
-            "description": "Sesuai dengan apa yang tertera. Tidak ada biaya tambahan tersembunyi."
-        },
-        {
-            "title": "Support Purna Jual",
-            "description": "Kami tetap mendampingi jika terjadi kendala setelah pembelian."
-        }
+        "start_from_price": 1500,
+        "duration": "instant",
+        "is_popular": true,
+        "image": "-"
+      },
+      {
+        "name": "Diamond Free Fire",
+        "item_info": [
+          "Diamond Free Fire",
+          "Langsung masuk ke akun kamu",
+          "Pembelian aman dan terpercaya",
+          "Harga terjangkau"
+        ],
+        "start_from_price": 1000,
+        "duration": "instant",
+        "is_popular": true,
+        "image": "-"
+      }
+    ],
+    "app_premium": [
+      {
+        "name": "Premium Alight Motion",
+        "item_info": [
+          "Premium Alight Motion",
+          "Proses instant",
+          "Cepat, murah, aman, dan terpercaya",
+          "Banyak testimoni"
+        ],
+        "start_from_price": 5000,
+        "duration": 7,
+        "is_popular": true,
+        "image": "-"
+      }
     ]
+  },
+  "why": [
+    {
+      "title": "Fast Response",
+      "description": "Admin siap membantu selama jam operasional dengan sigap."
+    },
+    {
+      "title": "Terpercaya",
+      "description": "Kami memiliki beberapa testimoni yang membuat kamu semakin percaya."
+    },
+    {
+      "title": "Harga Transparan",
+      "description": "Sesuai dengan apa yang tertera. Tidak ada biaya tambahan tersembunyi."
+    },
+    {
+      "title": "Support Purna Jual",
+      "description": "Kami tetap mendampingi jika terjadi kendala setelah pembelian."
+    }
+  ]
 }
