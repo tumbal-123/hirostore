@@ -7,7 +7,7 @@
     "diamond_game": [
       {
         "name": "Diamond Mobile Legends",
-        "stock:" 0,
+        "stock": 0,
         "item_info": [
           "Diamond Mobile Legends",
           "Langsung masuk ke akun kamu",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Diamond Free Fire",
-        "stock:" 0,
+        "stock": 0,
         "item_info": [
           "Diamond Free Fire",
           "Langsung masuk ke akun kamu",
@@ -37,7 +37,7 @@
     "app_premium": [
       {
         "name": "Premium Alight Motion",
-        "stock:" 0,
+        "stock": 0,
         "item_info": [
           "Premium Alight Motion",
           "Proses instant",
