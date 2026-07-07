@@ -7,17 +7,17 @@
     "diamond_game": [
       {
         "name": "Diamond Mobile Legends",
-        "stock": 29,
+        "stock": 0,
         "item_info": [
           "Diamond Mobile Legends",
           "Langsung masuk ke akun kamu",
           "Pembelian aman dan terpercaya",
           "Harga terjangkau"
         ],
-        "start_from_price": 1500,
-        "duration": "instant",
+        "start_from_price": 2000,
+        "duration": "Instant",
         "is_popular": true,
-        "image": "-"
+        "image": "https://share.google/mnDywUDRndosTU8C9"
       },
       {
         "name": "Diamond Free Fire",
