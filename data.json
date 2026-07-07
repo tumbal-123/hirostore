@@ -32,6 +32,19 @@
         "duration": "instant",
         "is_popular": true,
         "image": "-"
+      },
+      {
+        "name": "Weekly Diamond Pass",
+        "stock": 99999,
+        "item_info": [
+          "Mobile Legend",
+          "Paling Murah",
+          "Langsung Masuk ke Akun"
+        ],
+        "start_from_price": 27100,
+        "duration": "instant",
+        "is_popular": true,
+        "image": "-"
       }
     ],
     "app_premium": [
