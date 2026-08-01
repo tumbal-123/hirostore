@@ -15,7 +15,7 @@
           "Harga terjangkau"
         ],
         "start_from_price": 27200,
-        "duration": "Instant",
+        "duration": "instant",
         "is_popular": true,
         "image": ""
       },
@@ -28,7 +28,7 @@
           "Harga terjangkau"
         ],
         "start_from_price": 33000,
-        "duration": "7 Hari",
+        "duration": 7,
         "is_popular": true,
         "image": "-"
       },
@@ -41,7 +41,7 @@
           "Harga terjangkau"
         ],
         "start_from_price": 65000,
-        "duration": "7 Hari",
+        "duration": 7,
         "is_popular": true,
         "image": "-"
       },
@@ -55,7 +55,7 @@
           "Harga terjangkau"
         ],
         "start_from_price": 15000,
-        "duration": "Instant",
+        "duration": "instant",
         "is_popular": false,
         "image": "-"
       },
@@ -69,7 +69,7 @@
           "Harga terjangkau"
         ],
         "start_from_price": 71000,
-        "duration": "Instant",
+        "duration": "instant",
         "is_popular": false,
         "image": "-"
       }
