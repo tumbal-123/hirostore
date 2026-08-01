@@ -4,9 +4,9 @@
   "second_group_link": "https://chat.whatsapp.com/LlhtU6R4g6Z1NeS2FpQrE0",
   "channel_link": "https://whatsapp.com/channel/0029VbCQW4yKbYMJKkqruR0Q",
   "products": {
-    "diamond_game": [
+    "mobile_legends": [
       {
-        "name": "Diamond Mobile Legends",
+        "name": "Weekly Diamond Pass",
         "stock": 99999,
         "item_info": [
           "Diamond Mobile Legends",
@@ -14,36 +14,63 @@
           "Pembelian aman dan terpercaya",
           "Harga terjangkau"
         ],
-        "start_from_price": 2000,
+        "start_from_price": 27200,
         "duration": "Instant",
         "is_popular": true,
         "image": ""
       },
       {
-        "name": "Diamond Free Fire",
-        "stock": 99999,
+        "name": "Basic Starlight Card",
+        "stock": 0,
         "item_info": [
-          "Diamond Free Fire",
-          "Langsung masuk ke akun kamu",
+          "Mobile Legends",
           "Pembelian aman dan terpercaya",
           "Harga terjangkau"
         ],
-        "start_from_price": 2000,
-        "duration": "instant",
+        "start_from_price": 33000,
+        "duration": "7 Hari",
         "is_popular": true,
         "image": "-"
       },
       {
-        "name": "Weekly Diamond Pass",
+        "name": "Premium Starlight Card",
+        "stock": 0,
+        "item_info": [
+          "Mobile Legends",
+          "Pembelian aman dan terpercaya",
+          "Harga terjangkau"
+        ],
+        "start_from_price": 65000,
+        "duration": "7 Hari",
+        "is_popular": true,
+        "image": "-"
+      },
+      {
+        "name": "Weekly Elite Bundle",
         "stock": 99999,
         "item_info": [
-          "Mobile Legend",
-          "Paling Murah",
-          "Langsung Masuk ke Akun"
+          "Bundle Mobile Legends",
+          "Langsung masuk ke akun kamu",
+          "Pembelian aman dan terpercaya",
+          "Harga terjangkau"
         ],
-        "start_from_price": 27100,
-        "duration": "instant",
-        "is_popular": true,
+        "start_from_price": 15000,
+        "duration": "Instant",
+        "is_popular": false,
+        "image": "-"
+      },
+      {
+        "name": "Monthly Epic Bundle",
+        "stock": 99999,
+        "item_info": [
+          "Bundle Mobile Legends",
+          "Langsung masuk ke akun kamu",
+          "Pembelian aman dan terpercaya",
+          "Harga terjangkau"
+        ],
+        "start_from_price": 71000,
+        "duration": "Instant",
+        "is_popular": false,
         "image": "-"
       }
     ],
