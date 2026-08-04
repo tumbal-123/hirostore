@@ -74,7 +74,7 @@
         "image": "-"
       }
     ],
-    "app_premium": [
+    "Aplikasi & digital": [
       {
         "name": "Premium Alight Motion",
         "stock": 11,
@@ -84,8 +84,50 @@
           "Cepat, murah, aman, dan terpercaya",
           "Banyak testimoni"
         ],
+        "start_from_price": 3000,
+        "duration": "1tahun ( 5 maret 2027) ",
+        "is_popular": true,
+        "image": "-"
+      },
+      {
+        "name": "Capcut pro 7 hari ",
+        "stock": 100,
+        "item_info": [
+          "Capcut pro private 7 hari",
+          "Bergaransi login",
+          "Maksimal login 2 device",
+          "Akun capcut pro akan dikirim setelah check out"
+        ],
+        "start_from_price": 7000,
+        "duration": "7 hari",
+        "is_popular": true,
+        "image": "-"
+      },
+      {
+        "name": "Capcut pro 1 bulan ",
+        "stock": 222,
+        "item_info": [
+          "Capcut pro 1 bulan",
+          "Garansi 14 hari dan login",
+          "Bisa banyak device",
+          "Item dikirim setelah checkout"
+        ],
+        "start_from_price": 27000,
+        "duration": "1 bulan ",
+        "is_popular": false,
+        "image": "-"
+      },
+      {
+        "name": "Gemini Ai pro 18 bulan (invite) ",
+        "stock": 120,
+        "item_info": [
+          "Fitur lengkap dari Gemini ai pro",
+          "Penyimpanan hingga 5TB",
+          "Garansi penuh",
+          "Item dikirim setelah checkout"
+        ],
         "start_from_price": 5000,
-        "duration": 7,
+        "duration": "18 bulan ",
         "is_popular": true,
         "image": "-"
       }
