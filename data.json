@@ -130,6 +130,48 @@
         "duration": "18 bulan ",
         "is_popular": true,
         "image": "-"
+      },
+      {
+        "name": "Canva premium 1 bulan",
+        "stock": 120,
+        "item_info": [
+          "Canva premium invite",
+          "Akses eksklusif dari canva",
+          "Via invite nama email",
+          "Bergaransi penuh"
+        ],
+        "start_from_price": 5000,
+        "duration": "1bulan",
+        "is_popular": false,
+        "image": "-"
+      },
+      {
+        "name": "Youtube premium 30 hari",
+        "stock": 100,
+        "item_info": [
+          "Youtube premium ekslusif",
+          "Bebas iklan",
+          "Fitur anti musik mati & jalan di latar belakang",
+          "Garansi 14hari"
+        ],
+        "start_from_price": 5000,
+        "duration": "1 bulan / 30",
+        "is_popular": true,
+        "image": "-"
+      },
+      {
+        "name": "Spotify Premium 14hari",
+        "stock": 230,
+        "item_info": [
+          "Fitur bebas iklan spotify",
+          "Bebas gangguan iklan",
+          "Tinggal login",
+          "Akun premium diberikan setelah checkout"
+        ],
+        "start_from_price": 5000,
+        "duration": 14,
+        "is_popular": false,
+        "image": "-"
       }
     ]
   },
