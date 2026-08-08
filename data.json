@@ -173,6 +173,50 @@
         "is_popular": false,
         "image": "-"
       }
+    ],
+    "magic_chess": [
+      {
+        "name": "Weekly Card",
+        "stock": 99999,
+        "item_info": [
+          "Diamond Magic Chess",
+          "Langsung masuk ke akun kamu",
+          "Pembelian aman dan terpercaya",
+          "Harga terjangkau"
+        ],
+        "start_from_price": 28500,
+        "duration": "instant",
+        "is_popular": true,
+        "image": "-"
+      },
+      {
+        "name": "Battle for Discounts",
+        "stock": 99999,
+        "item_info": [
+          "Magic Chess",
+          "Pembelian aman dan terpercaya",
+          "Harga terjangkau",
+          "Langsung masuk ke akun kamu"
+        ],
+        "start_from_price": 15000,
+        "duration": "instant",
+        "is_popular": false,
+        "image": "-"
+      },
+      {
+        "name": "Lukas‘s Battle Bounty",
+        "stock": 99999,
+        "item_info": [
+          "Magic Chess",
+          "Pembelian aman dan terpercaya",
+          "Harga terjangkau",
+          "Langsung masuk ke akun kamu"
+        ],
+        "start_from_price": 15000,
+        "duration": "instant",
+        "is_popular": false,
+        "image": "-"
+      }
     ]
   },
   "why": [
