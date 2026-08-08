@@ -4,76 +4,6 @@
   "second_group_link": "https://chat.whatsapp.com/LlhtU6R4g6Z1NeS2FpQrE0",
   "channel_link": "https://whatsapp.com/channel/0029VbCQW4yKbYMJKkqruR0Q",
   "products": {
-    "mobile_legends": [
-      {
-        "name": "Weekly Diamond Pass",
-        "stock": 99999,
-        "item_info": [
-          "Diamond Mobile Legends",
-          "Langsung masuk ke akun kamu",
-          "Pembelian aman dan terpercaya",
-          "Harga terjangkau"
-        ],
-        "start_from_price": 27200,
-        "duration": "instant",
-        "is_popular": true,
-        "image": ""
-      },
-      {
-        "name": "Basic Starlight Card",
-        "stock": 1,
-        "item_info": [
-          "Mobile Legends",
-          "Pembelian aman dan terpercaya",
-          "Harga terjangkau"
-        ],
-        "start_from_price": 33000,
-        "duration": 7,
-        "is_popular": true,
-        "image": "-"
-      },
-      {
-        "name": "Premium Starlight Card",
-        "stock": 0,
-        "item_info": [
-          "Mobile Legends",
-          "Pembelian aman dan terpercaya",
-          "Harga terjangkau"
-        ],
-        "start_from_price": 65000,
-        "duration": 7,
-        "is_popular": true,
-        "image": "-"
-      },
-      {
-        "name": "Weekly Elite Bundle",
-        "stock": 99999,
-        "item_info": [
-          "Bundle Mobile Legends",
-          "Langsung masuk ke akun kamu",
-          "Pembelian aman dan terpercaya",
-          "Harga terjangkau"
-        ],
-        "start_from_price": 15000,
-        "duration": "instant",
-        "is_popular": false,
-        "image": "-"
-      },
-      {
-        "name": "Monthly Epic Bundle",
-        "stock": 99999,
-        "item_info": [
-          "Bundle Mobile Legends",
-          "Langsung masuk ke akun kamu",
-          "Pembelian aman dan terpercaya",
-          "Harga terjangkau"
-        ],
-        "start_from_price": 71000,
-        "duration": "instant",
-        "is_popular": false,
-        "image": "-"
-      }
-    ],
     "Aplikasi & digital": [
       {
         "name": "Premium Alight Motion",
@@ -170,6 +100,76 @@
         ],
         "start_from_price": 5000,
         "duration": 14,
+        "is_popular": false,
+        "image": "-"
+      }
+    ],
+    "mobile_legends": [
+      {
+        "name": "Weekly Diamond Pass",
+        "stock": 99999,
+        "item_info": [
+          "Diamond Mobile Legends",
+          "Langsung masuk ke akun kamu",
+          "Pembelian aman dan terpercaya",
+          "Harga terjangkau"
+        ],
+        "start_from_price": 27200,
+        "duration": "instant",
+        "is_popular": true,
+        "image": "-"
+      },
+      {
+        "name": "Basic Starlight Card",
+        "stock": 1,
+        "item_info": [
+          "Mobile Legends",
+          "Pembelian aman dan terpercaya",
+          "Harga terjangkau"
+        ],
+        "start_from_price": 33000,
+        "duration": 7,
+        "is_popular": true,
+        "image": "-"
+      },
+      {
+        "name": "Premium Starlight Card",
+        "stock": 0,
+        "item_info": [
+          "Mobile Legends",
+          "Pembelian aman dan terpercaya",
+          "Harga terjangkau"
+        ],
+        "start_from_price": 65000,
+        "duration": 7,
+        "is_popular": true,
+        "image": "-"
+      },
+      {
+        "name": "Weekly Elite Bundle",
+        "stock": 99999,
+        "item_info": [
+          "Bundle Mobile Legends",
+          "Langsung masuk ke akun kamu",
+          "Pembelian aman dan terpercaya",
+          "Harga terjangkau"
+        ],
+        "start_from_price": 15000,
+        "duration": "instant",
+        "is_popular": false,
+        "image": "-"
+      },
+      {
+        "name": "Monthly Epic Bundle",
+        "stock": 99999,
+        "item_info": [
+          "Bundle Mobile Legends",
+          "Langsung masuk ke akun kamu",
+          "Pembelian aman dan terpercaya",
+          "Harga terjangkau"
+        ],
+        "start_from_price": 71000,
+        "duration": "instant",
         "is_popular": false,
         "image": "-"
       }
