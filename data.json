@@ -51,20 +51,6 @@
         "image": "-"
       },
       {
-        "name": "Gemini Ai pro 18 bulan (invite)",
-        "stock": 120,
-        "item_info": [
-          "Fitur lengkap dari Gemini ai pro",
-          "Penyimpanan hingga 5TB",
-          "Garansi penuh",
-          "Item dikirim setelah checkout"
-        ],
-        "start_from_price": 7000,
-        "duration": "18 bulan ",
-        "is_popular": true,
-        "image": "-"
-      },
-      {
         "name": "Canva premium 1 bulan",
         "stock": 120,
         "item_info": [
@@ -104,6 +90,19 @@
         "start_from_price": 5000,
         "duration": 14,
         "is_popular": false,
+        "image": "-"
+      },
+      {
+        "name": "Link Aktivasi Gemini Ai pro 18 bulan",
+        "stock": 10,
+        "item_info": [
+          "Garansi Link",
+          "Fitur lengkap dari Gemini ai pro",
+          "Penyimpanan hingga 5TB"
+        ],
+        "start_from_price": 13000,
+        "duration": "instant",
+        "is_popular": true,
         "image": "-"
       }
     ],
@@ -274,6 +273,71 @@
           "Pembelian aman dan terpercaya"
         ],
         "start_from_price": 45000,
+        "duration": "instant",
+        "is_popular": true,
+        "image": "-"
+      }
+    ],
+    "gemini_invite": [
+      {
+        "name": "Gemini Ai pro 1 bulan (no garansi)",
+        "stock": 12,
+        "item_info": [
+          "Fitur lengkap dari Gemini ai pro",
+          "Penyimpanan hingga 5TB"
+        ],
+        "start_from_price": 6000,
+        "duration": "1 bulan",
+        "is_popular": false,
+        "image": "-"
+      },
+      {
+        "name": "Gemini Ai pro 1 bulan (garansi)",
+        "stock": 12,
+        "item_info": [
+          "Fitur lengkap dari Gemini ai pro",
+          "Penyimpanan hingga 5TB",
+          "Garansi"
+        ],
+        "start_from_price": 7000,
+        "duration": "1 bulan",
+        "is_popular": true,
+        "image": "-"
+      },
+      {
+        "name": "Gemini Ai pro <18 bulan (no garansi)",
+        "stock": 12,
+        "item_info": [
+          "Fitur lengkap dari Gemini ai pro",
+          "Penyimpanan hingga 5TB"
+        ],
+        "start_from_price": 8000,
+        "duration": "instant",
+        "is_popular": false,
+        "image": "-"
+      },
+      {
+        "name": "Gemini Ai pro <18 bulan (garansi)",
+        "stock": 12,
+        "item_info": [
+          "Fitur lengkap dari Gemini ai pro",
+          "Penyimpanan hingga 5TB",
+          "Garansi"
+        ],
+        "start_from_price": 9000,
+        "duration": "instant",
+        "is_popular": true,
+        "image": "-"
+      }
+    ],
+    "lain_lain": [
+      {
+        "name": "Gmail Fresh",
+        "stock": 99999,
+        "item_info": [
+          "Google"
+        ],
+        "start_from_price": 2000,
         "duration": "instant",
         "is_popular": true,
         "image": "-"
