@@ -100,7 +100,7 @@
           "Fitur lengkap dari Gemini ai pro",
           "Penyimpanan hingga 5TB"
         ],
-        "start_from_price": 12000,
+        "start_from_price": 15000,
         "duration": "instant",
         "is_popular": true,
         "image": "-"
@@ -116,7 +116,7 @@
           "Pembelian aman dan terpercaya",
           "Harga terjangkau"
         ],
-        "start_from_price": 27200,
+        "start_from_price": 30500,
         "duration": "instant",
         "is_popular": true,
         "image": "-"
@@ -156,7 +156,7 @@
           "Pembelian aman dan terpercaya",
           "Harga terjangkau"
         ],
-        "start_from_price": 15000,
+        "start_from_price": 17500,
         "duration": "instant",
         "is_popular": false,
         "image": "-"
@@ -170,7 +170,7 @@
           "Pembelian aman dan terpercaya",
           "Harga terjangkau"
         ],
-        "start_from_price": 71000,
+        "start_from_price": 80000,
         "duration": "instant",
         "is_popular": false,
         "image": "-"
@@ -186,23 +186,9 @@
           "Pembelian aman dan terpercaya",
           "Harga terjangkau"
         ],
-        "start_from_price": 28500,
+        "start_from_price": 32000,
         "duration": "instant",
         "is_popular": true,
-        "image": "-"
-      },
-      {
-        "name": "Battle for Discounts",
-        "stock": 99999,
-        "item_info": [
-          "Magic Chess",
-          "Pembelian aman dan terpercaya",
-          "Harga terjangkau",
-          "Langsung masuk ke akun kamu"
-        ],
-        "start_from_price": 15000,
-        "duration": "instant",
-        "is_popular": false,
         "image": "-"
       },
       {
@@ -214,7 +200,7 @@
           "Harga terjangkau",
           "Langsung masuk ke akun kamu"
         ],
-        "start_from_price": 15000,
+        "start_from_price": 16500,
         "duration": "instant",
         "is_popular": false,
         "image": "-"
@@ -280,69 +266,31 @@
     ],
     "gemini_invite": [
       {
-        "name": "Gemini Ai pro 1 bulan (no garansi)",
-        "stock": 12,
+        "name": "Gemini Ai pro 1 bulan",
+        "stock": 30,
         "item_info": [
           "Fitur lengkap dari Gemini ai pro",
           "Penyimpanan hingga 5TB"
-        ],
-        "start_from_price": 7000,
-        "duration": "1 bulan",
-        "is_popular": false,
-        "image": "-"
-      },
-      {
-        "name": "Gemini Ai pro 1 bulan (garansi)",
-        "stock": 12,
-        "item_info": [
-          "Fitur lengkap dari Gemini ai pro",
-          "Penyimpanan hingga 5TB",
-          "Garansi"
-        ],
-        "start_from_price": 8000,
-        "duration": "1 bulan",
-        "is_popular": true,
-        "image": "-"
-      },
-      {
-        "name": "Gemini Ai pro <18 bulan (no garansi)",
-        "stock": 12,
-        "item_info": [
-          "Fitur lengkap dari Gemini ai pro",
-          "Penyimpanan hingga 5TB"
-        ],
-        "start_from_price": 9000,
-        "duration": "instant",
-        "is_popular": false,
-        "image": "-"
-      },
-      {
-        "name": "Gemini Ai pro <18 bulan (garansi)",
-        "stock": 12,
-        "item_info": [
-          "Fitur lengkap dari Gemini ai pro",
-          "Penyimpanan hingga 5TB",
-          "Garansi"
         ],
         "start_from_price": 10000,
+        "duration": "1 bulan",
+        "is_popular": false,
+        "image": "-"
+      },
+      {
+        "name": "Gemini Ai pro <18 bulan",
+        "stock": 12,
+        "item_info": [
+          "Fitur lengkap dari Gemini ai pro",
+          "Penyimpanan hingga 5TB"
+        ],
+        "start_from_price": 15000,
         "duration": "instant",
-        "is_popular": true,
+        "is_popular": false,
         "image": "-"
       }
     ],
-    "lain_lain": [
-      {
-        "name": "Gmail Fresh",
-        "stock": 99999,
-        "item_info": [
-          "Google"
-        ],
-        "start_from_price": 2000,
-        "duration": "instant",
-        "is_popular": true,
-        "image": "-"
-      }
-    ]
+    "lain_lain": []
   },
   "why": [
     {
